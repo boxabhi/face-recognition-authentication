@@ -2,6 +2,10 @@
 
 A simple and powerful face recognition authentication system built with HTML5, JavaScript, and Python (optional for backend). This system allows users to log in and register using their face as a biometric authentication method. It uses webcam access to capture and process face data, enabling secure and seamless user authentication.
 
+[Watch the video on YouTube](https://www.youtube.com/watch?v=i-4skZ7JGU0&ab_channel=CodingforAll)
+[![Watch the video](https://img.youtube.com/vi/i-4skZ7JGU0/0.jpg)](https://www.youtube.com/watch?v=i-4skZ7JGU0&ab_channel=CodingforAll)
+
+
 ## Features
 
 - **Face Registration**: Capture your face using the webcam for registration.
